@@ -19,4 +19,4 @@
 |topology.json|       fattree网络拓扑，由genrate_ffattree.py文件自动生成|
 ## 如果自己装P4的环境装不上！
 如果自己装环境装不上，可以直接用这个ova！（这个是原版，自己用要调试的）。里面的库是18年的很多已经更新，而且python是2.7的。可能会有许多的因为库过于老而造成的bug需要自己慢慢搞。建议和[P4官方教程](https://github.com/p4lang/tutorials)对比着看.
-* ova文件[百度网盘]（https://pan.baidu.com/s/1G3eCEduEmogxfB8eOLvx-g ）提取码：nexa
+* ova文件[百度网盘](https://pan.baidu.com/s/1G3eCEduEmogxfB8eOLvx-g)提取码：nexa
